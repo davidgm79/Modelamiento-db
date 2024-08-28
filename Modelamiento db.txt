@@ -1,3 +1,5 @@
+(APUNTES DEL DIA 26/08/2024)
+
 se trabaja en Oracle 12 seria importar la imagen en el VirtualBox o el VMware
 
 casos de uso y análisis del modelo entidad relación (MER) requerimientos funcionales de casos en especifico y se diagramara en la herramienta y se trabajara todo por líneas de comando conceptos de programación en SQL Oracle form builder 
@@ -21,4 +23,7 @@ mañana se va a ver comandos
 
 Para importar la imagen vamos a nuevo, disco duro, tipo de archivo dvi y seleccionamos la iso 
 
-para trabajar la ISO en una memoria USB se debe formatear está en formato exFATs y la memoria debe ser de 16 o más gigas para que soporte la ISO y guarde los archivos (APUNTES DEL DIA 26/08/2024)
+para trabajar la ISO en una memoria USB se debe formatear está en formato exFATs y la memoria debe ser de 16 o más gigas para que soporte la ISO y guarde los archivos 
+
+(APUNTES DEL DIA 27/08/2024)
+
