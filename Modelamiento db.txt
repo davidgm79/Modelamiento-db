@@ -27,3 +27,11 @@ para trabajar la ISO en una memoria USB se debe formatear está en formato exFAT
 
 (APUNTES DEL DIA 27/08/2024)
 
+se podra listar las principales caracteristicas de oracle9 y entender los conceptos basicos del modelado de bases de datos relacionales
+
+entre las principales caracteristicas de la herramienta esta presente la escalabilidad, arquitectura confiable disponible y segura, basado en estandares y extenciones propietarias (sql, pl/sql)
+compatibilidad total con las bases de datos relacionales. 
+
+Las fases del desarrollo de un sistema son: diseño, trasicion, estrategia y analisis, construccion y documentacion y  produccion 
+
+en el 70 se propone el modelo ralacinal el cual consiste en la coleccion d etablas y relaciones, conjuntos de operadores
