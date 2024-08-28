@@ -35,3 +35,8 @@ compatibilidad total con las bases de datos relacionales.
 Las fases del desarrollo de un sistema son: diseño, trasicion, estrategia y analisis, construccion y documentacion y  produccion 
 
 en el 70 se propone el modelo ralacinal el cual consiste en la coleccion d etablas y relaciones, conjuntos de operadores
+
+usuario: davidgm79
+contraseña: 331200
+
+la estandarizacion nos ayuda a que ahorremos recursos de nuestro equipo y servidor 
