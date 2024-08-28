@@ -39,4 +39,4 @@ en el 70 se propone el modelo ralacinal el cual consiste en la coleccion d etabl
 usuario: davidgm79
 contraseña: 331200
 
-la estandarizacion nos ayuda a que ahorremos recursos de nuestro equipo y servidor 
+la estandarizacion nos ayuda a que ahorremos recursos de nuestro equipo y servidor, el spool es el comando para la creacion de un archivo plano 
