@@ -1,20 +1,26 @@
+(APUNTES DEL DIA 26/08/2024)
+
 se trabaja en Oracle 12 seria importar la imagen en el VirtualBox o el VMware
 casos de uso y análisis del modelo entidad relación (MER) requerimientos funcionales de casos en especifico y se diagramara en la herramienta y se trabajara todo por líneas de comando conceptos de programación en SQL Oracle form builder 
-
 tres exámenes, uno por corte y los exámenes son prácticos 
 
 usuario: system
 contraseña: 123456
 
 usuarios, crear usuario, seleccionamos todos los privilegios <-- sección administración base de datos por defecto: xe, para iniciar con el usuario creado le damos en SQL plus y hacemos el login 
+<<<<<<< HEAD
 diccionario de datos: se usa para guardar información importante de las entidades 
 en dado caso de que se dañe el servidor se repara con los instaladores suministrados y por lo general se pierden los progresos no guardados en una copia de seguridad, es recomendable realizar copias de seguridad de la base de datos 
 commit para guardar, export host = para exportar el trabajo realizado los archivos se guardan en formato dmp 
+=======
+diccionario de datos: se usa para guardar información importante de las entidades, en dado caso de que se dañe el servidor se repara con los instaladores suministrados y por lo general se pierden los progresos no guardados en una copia de seguridad, es recomendable realizar copias de seguridad de la base de datos 
+commit para guardar, export host = para exportar el trabajo realizado los archivos se guardan en formato dmp. 
+>>>>>>> c4965ca9b03f5b6951dfd529937a77ab488c5ad2
 se recomienda trabajar con el virtualbox 7.0 
 
-el libro recomendado esta en la plataforma llamado "ingenieria del software, un enfoque practico" capitulo 6 parte 2
-mañana se va a ver comandos 
+el libro recomendado esta en la plataforma llamado "ingenieria del software, un enfoque practico" capitulo 6 parte 2. mañana se va a ver comandos, Para importar la imagen vamos a nuevo, disco duro, tipo de archivo dvi y seleccionamos la iso para trabajar la ISO en una memoria USB se debe formatear está en formato exFATs y la memoria debe ser de 16 o más gigas para que soporte la ISO y guarde los archivos 
 
+<<<<<<< HEAD
 Para importar la imagen vamos a nuevo, disco duro, tipo de archivo dvi y seleccionamos la iso 
 para trabajar la ISO en una memoria USB se debe formatear está en formato exFATs y la memoria debe ser de 16 o más gigas para que soporte la ISO y guarde los archivos (APUNTES DEL DIA 26/08/2024)
 
@@ -22,3 +28,18 @@ para trabajar la ISO en una memoria USB se debe formatear está en formato exFAT
 
 Los diagramas de caso de uso son uyna representacion grafica del paso a paso de un sistema es decir el flujo de informacion dentro de un sistema, los casos de usos son una herramineta que ayuda al analista a trabajar y entender a los usuarios para determinar como usara este el sistema
 usar los casos de usos es importante ya que se crearan los puntos de vista de desarrollo y se involucra al usuario en las etapas de desarrollo, estos se pueden representar como actores y el propio caos de uso 
+=======
+(APUNTES DEL DIA 27/08/2024)
+
+se podra listar las principales caracteristicas de oracle9 y entender los conceptos basicos del modelado de bases de datos relacionales entre las principales caracteristicas de la herramienta esta presente la escalabilidad, arquitectura confiable disponible y segura, basado en estandares y extenciones propietarias (sql, pl/sql)
+compatibilidad total con las bases de datos relacionales. Las fases del desarrollo de un sistema son: diseño, trasicion, estrategia y analisis, construccion y documentacion y  produccion en el 70 se propone el modelo ralacinal el cual consiste en la coleccion d etablas y relaciones, conjuntos de operadores
+
+usuario: davidgm79
+contraseña: 331200
+
+la estandarizacion nos ayuda a que ahorremos recursos de nuestro equipo y servidor, el spool es el comando para la creacion de un archivo plano 
+
+(APUNTES DEL DIA 03/09/2024)
+
+comando spool no es obligatorio pero si nos ayuda a guardar una serie de paso a paso del desarrollo 
+>>>>>>> c4965ca9b03f5b6951dfd529937a77ab488c5ad2
