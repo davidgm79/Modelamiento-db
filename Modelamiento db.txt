@@ -1,5 +1,4 @@
 se trabaja en Oracle 12 seria importar la imagen en el VirtualBox o el VMware
-
 casos de uso y análisis del modelo entidad relación (MER) requerimientos funcionales de casos en especifico y se diagramara en la herramienta y se trabajara todo por líneas de comando conceptos de programación en SQL Oracle form builder 
 
 tres exámenes, uno por corte y los exámenes son prácticos 
@@ -8,11 +7,8 @@ usuario: system
 contraseña: 123456
 
 usuarios, crear usuario, seleccionamos todos los privilegios <-- sección administración base de datos por defecto: xe, para iniciar con el usuario creado le damos en SQL plus y hacemos el login 
-
 diccionario de datos: se usa para guardar información importante de las entidades 
-
 en dado caso de que se dañe el servidor se repara con los instaladores suministrados y por lo general se pierden los progresos no guardados en una copia de seguridad, es recomendable realizar copias de seguridad de la base de datos 
-
 commit para guardar, export host = para exportar el trabajo realizado los archivos se guardan en formato dmp 
 se recomienda trabajar con el virtualbox 7.0 
 
@@ -20,5 +16,9 @@ el libro recomendado esta en la plataforma llamado "ingenieria del software, un 
 mañana se va a ver comandos 
 
 Para importar la imagen vamos a nuevo, disco duro, tipo de archivo dvi y seleccionamos la iso 
-
 para trabajar la ISO en una memoria USB se debe formatear está en formato exFATs y la memoria debe ser de 16 o más gigas para que soporte la ISO y guarde los archivos (APUNTES DEL DIA 26/08/2024)
+
+(APUNTES DEL DIA 09/09/2024)
+
+Los diagramas de caso de uso son uyna representacion grafica del paso a paso de un sistema es decir el flujo de informacion dentro de un sistema, los casos de usos son una herramineta que ayuda al analista a trabajar y entender a los usuarios para determinar como usara este el sistema
+usar los casos de usos es importante ya que se crearan los puntos de vista de desarrollo y se involucra al usuario en las etapas de desarrollo, estos se pueden representar como actores y el propio caos de uso 
